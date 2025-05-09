@@ -68,7 +68,7 @@
       <body>
          <div>
             <head type="title">Équipe</head>
-            <div>
+            <div xml:id="carnaille">
                <head>Camille Carnaille</head>
                <p>(ULB - UNIGE pendant le projet) : </p>
                <p>Postdoctorante au sein du projet « Canoniser les Sept Sages », Camille Carnaille
@@ -85,7 +85,7 @@
             Alignement_Pelyarmenus--> et pour l'ensemble du
                   Cycle<!-- Link to Alignement_C7S -->. </p>
             </div>
-            <div>
+            <div xml:id="deleville">
                <head>Prunelle Deleville</head>
                <p>(ULB - UNIGE pendant le projet) : </p>
                <p>Prunelle Deleville a réalisé l’édition et le commentaire littéraire d’une
@@ -100,7 +100,7 @@
                   du glossaire<!-- Link to Glossaire --> et de la table des proverbes
                   <!-- Link to Table -->. </p>
             </div>
-            <div>
+            <div xml:id="foehr-janssens">
                <head>Yasmina Foehr-Janssens</head>
                <p>(UNIGE) : </p>
                <p>Yasmina Foehr-Janssens co-dirige le projet « Canoniser les Sept Sages » avec
@@ -112,7 +112,7 @@
                   récit. Elle a publié de nombreux travaux sur la tradition des <hi rend="italique"
                      >Sept sages de Rome</hi>.</p>
             </div>
-            <div>
+            <div xml:id="lecomte">
                <head>Sophie Lecomte</head>
                <p>(UNamur - ULiège pendant le projet) : </p>
                <p>Après des études en langues et littératures romanes (UNamur – ULg), Sophie Lecomte
@@ -128,7 +128,7 @@
                   l'étude philologique<!-- Link to Étude codico --> et l'édition critique du <hi
                      rend="italique">Roman de Pelyarmenus</hi><!-- Link to Edition -->. </p>
             </div>
-            <div>
+            <div xml:id="meylan">
                <head>Mello Meylan </head>
                <p>(UNIGE pendant le projet) : </p>
                <p>Mello (Aminoël) Meylan a obtenu son Master en littérature médiévale et philosophie
@@ -139,7 +139,7 @@
                   spécificités de ce dernier, tout comme sur la place unique et centrale qu’il tient
                   au sein du <hi rend="italique">cycle des Sept Sages de Rome</hi>. </p>
             </div>
-            <div>
+            <div xml:id="ventura">
                <head>Simone Ventura</head>
                <p>(ULB - UPF Barcelona pendant le projet) : </p>
                <p>Simone Ventura co-dirige le projet « Canoniser les Sept Sages » avec Yasmina
@@ -151,7 +151,7 @@
                      Pelyarmenus</hi><!-- Link to Étude linguistique -->, ainsi que de la
                   supervision de l'édition<!-- Link to Edition -->. </p>
             </div>
-            <div>
+            <div xml:id="zanardi">
                <head>Florian-Pierre Zanardi</head>
                <p>(UNIGE - Lumière-Lyon II pendant le projet) : </p>
                <p> Florian-Pierre Zanardi est titulaire d'un Master en langue et littérature
@@ -167,7 +167,7 @@
                </p>
             </div>
          </div>
-         <div>
+         <div xml:id="partenaires">
             <head type="title">Partenaires</head>
             <p><hi rend="bold">Bibliothèques</hi>
                <list>
