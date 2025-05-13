@@ -29,7 +29,7 @@
    </teiHeader>
    <text>
       <body>
-         <div>
+         <div xml:id="cycle-lead">
             <head type="title">Le <hi rend="italique">Cycle des Sept Sages</hi></head>
             <p>Le cycle narratif des Sept sages de Rome, objet de notre recherche, est une vaste chronique fictive 
                en vers puis en prose datant du XII<hi rend="exposant">e</hi> siècle. Ce cycle rassemble un roman souche, 
@@ -43,6 +43,8 @@
                ou la diffusion de ce cycle, on compte Gui de Dampierre, comte de Flandres (1225-1305). 
                C’est bien là un des facteurs décisifs pour la constitution du cycle et pour la compilation de manuscrits-bibliothèque, 
                parmi lesquels on compte de véritables chefs-d’œuvre de l’artisanat libraire médiéval.<lb/></p>
+         </div>
+         <div>
             <p>
                Les romans du <hi rend="italique">Cycle des Sept Sages</hi> peuvent être lus, respectivement : 
                <list>
